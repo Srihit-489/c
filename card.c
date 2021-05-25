@@ -19,7 +19,7 @@ int main() {
 	int counter;
 	int T;
 	scanf("%d",&T);
-	
+	printf("Small modification");
 for(int i=0;i<T;i++){
 	scanf("%d %d %d",&w,&h,&n);
 	counter = count(w,h);
